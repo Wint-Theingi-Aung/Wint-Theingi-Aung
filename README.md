@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="images/banner.svg" width="400" height="300" alt="Hussain Abbas - Director of Engineering" />
+  
 </p>
 
-<img src="images/wint.jpg" align="right" />
+<img src="images/wint.jpg" width="400" height="300" align="right" />
 
 I am  Wint Theingi Aung!
 
