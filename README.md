@@ -2,9 +2,7 @@
   
 </p>
 
-<img src="images/wint.jpg" width="400" height="600" align="right" />
-
-I am  Wint Theingi Aung!
+Hello! I am  Wint
 
 I work as a **SysAdmin**, focusing heavily on Developer Experience (DevEx), Platform Engineering, DevOps, and exploring AI-native workflows. I contribute to open-source software out of my own interest and as part of my work. 
 
@@ -23,24 +21,15 @@ I have a [longer README](https://hussainweb.github.io/README/) if you are intere
 
 ---
 
-## Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=hussainweb&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10&show=reviews,discussions" alt="Hussain's GitHub Stats" height="180" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=hussainweb&layout=compact&theme=tokyonight&border_radius=10&hide=css,html" alt="Hussain's Top Languages" height="180" />
-</p>
-
----
-
 ## Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hussainweb/)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/user/hussainweb)
-[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/hussainweb)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hussain.web/)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hussainweb)
-[![GitLab](https://img.shields.io/badge/GitLab-%23330F63.svg?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/hussainweb)
-[![Drupal](https://img.shields.io/badge/Drupal-%230678BE.svg?style=for-the-badge&logo=drupal&logoColor=white)](https://www.drupal.org/u/hussainweb)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wint-theingi-aung-110845272/)
+[![Medium](https://img.shields.io/badge/Medium-%23121011.svg?style=for-the-badge&logo=medium&logoColor=white)](https://winttheingiaung.medium.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Wint-Theingi-Aung)
+[![Mastodon (Burma.Social)](https://img.shields.io/badge/Burma.Social-%23563D7C.svg?style=for-the-badge&logo=mastodon&logoColor=white)](https://burma.social/@winttheingiaung)
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/winttheingiaung)
+[![Bluesky](https://img.shields.io/badge/Bluesky-%230285FF.svg?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/winttheingiaung.bsky.social)
+
 
 ## Skills & Expertise
 
