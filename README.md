@@ -2,7 +2,7 @@
   <img src="images/banner.svg" width="800" alt="Hussain Abbas - Director of Engineering" />
 </p>
 
-<img src="images/me.jpg" align="right" />
+<img src="images/wint.jpg" align="right" />
 
 I am  Wint Theingi Aung!
 
