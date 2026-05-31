@@ -2,7 +2,7 @@
   
 </p>
 
-<img src="images/wint.jpg" width="400" height="300" align="right" />
+<img src="images/wint.jpg" width="400" height="600" align="right" />
 
 I am  Wint Theingi Aung!
 
