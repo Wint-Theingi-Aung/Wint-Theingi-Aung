@@ -6,18 +6,7 @@ Hello! I am  Wint
 
 I work as a **SysAdmin**, focusing heavily on Developer Experience (DevEx), Platform Engineering, DevOps, and exploring AI-native workflows. I contribute to open-source software out of my own interest and as part of my work. 
 
-I have a [longer README](https://hussainweb.github.io/README/) if you are interested in more about my management and working style. You can also explore my [overall timeline](https://hussainweb.me/changelog), the [tools I use](https://hussainweb.me/uses/), and my writing on my [personal blog](https://hussainweb.me).
-
----
-
-## Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [Moving Development to the Cloud: The AI-First Home Server](https://hussainweb.me/blog/moving-dev-to-proxmox-ai-agents/)
-- [Winning the AWS Jam Toronto: An Unexpected Journey](https://hussainweb.me/blog/aws-jam-toronto-2026/)
-- [How I Saved My Immich Installation from a Broken PostgreSQL Upgrade on TrueNAS](https://hussainweb.me/blog/truenas-immich-postgres-upgrade/)
-- [Beyond &quot;It Works on My Machine&quot;: Lessons from Modernizing a Legacy Ansible Role](https://hussainweb.me/blog/modernizing-ansible-role-chezmoi/)
-- [Self-Hosting Atuin with Docker and Coolify](https://hussainweb.me/blog/self-hosting-atuin-with-docker-and-coolify/)
-<!-- BLOG-POST-LIST:END -->
+I have a [longer README](https://winttheingiaung.github.io/README/) if you are interested in more about my management and working style.
 
 ---
 
