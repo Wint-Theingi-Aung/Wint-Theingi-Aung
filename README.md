@@ -75,7 +75,3 @@ I have a [longer README](https://winttheingiaung.github.io/README/) if you are i
 </td>
 </tr>
 </table>
-
-<p align="center">
-  <a href="https://youtu.be/UqNbBe3lVCI">🎥 How did I build this profile?</a>
-</p>
