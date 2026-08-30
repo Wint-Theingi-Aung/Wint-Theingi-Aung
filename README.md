@@ -30,7 +30,7 @@
   Hi, I'm Wint Theingi Aung, Software Developer from Myanmar
   <br>
   <br>
-    🎓 I graduated from University of Compute Studies, Yangon (UCSY) with a degree in Computer Science.
+    🎓 I graduated from University of Computer Studies, Yangon (UCSY) with a degree in Computer Science.
   <br>
   🎓 I completed a Postgraduate Diploma in English from the University of Yangon.
   <br>
