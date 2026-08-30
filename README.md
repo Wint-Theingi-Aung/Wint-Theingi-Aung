@@ -6,8 +6,8 @@
   </a>
 </h1>
 
-<h5 align="center">
  ## Let's Connect
+<h5 align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wint-theingi-aung-110845272/)
 [![Medium](https://img.shields.io/badge/Medium-%23121011.svg?style=for-the-badge&logo=medium&logoColor=white)](https://winttheingiaung.medium.com/)
