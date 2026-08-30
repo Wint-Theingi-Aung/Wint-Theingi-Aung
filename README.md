@@ -17,13 +17,15 @@
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/winttheingiaung)
 </h5>
 
-#### 🔗 Translation Profiles
+## 🔗 Translation Profiles
+
+<h5 align="center">
 
 [![TED Translators](https://img.shields.io/badge/TED%20Translators-E62B1E?style=for-the-badge&logo=ted&logoColor=white)](https://www.ted.com/profiles/32681592/translator)
 [![Launchpad](https://img.shields.io/badge/Launchpad-FB7C00?style=for-the-badge&logo=ubuntu&logoColor=white)](https://launchpad.net/~wint-theingi-aung)
 [![Crowdin](https://img.shields.io/badge/Crowdin-2E3340?style=for-the-badge&logo=crowdin&logoColor=white)](https://crowdin.com/profile/winttheingiaung)
 [![Weblate](https://img.shields.io/badge/Weblate-2ECC71?style=for-the-badge&logo=weblate&logoColor=white)](https://hosted.weblate.org/user/winttheingiaung/)
-<br>
+</h5>
 
 <p align="center">
   Hi, I'm Wint Theingi Aung, Software Developer from Myanmar
