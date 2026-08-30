@@ -17,15 +17,6 @@
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/winttheingiaung)
 </h5>
 
-### 🌍 Translation & Localization
-
-I enjoy contributing to **open-source localization and translation projects**, helping make software and knowledge more accessible across languages and communities.
-
-- 🎙️ **TED Translator** — Translating and localizing TED content
-- 🐧 **Launchpad Translator** — Contributing to Ubuntu and other open-source localization projects
-- 🌐 **Crowdin Contributor** — Participating in software and community localization
-- 📝 **Weblate Contributor** — Contributing to open-source translation projects
-
 #### 🔗 Translation Profiles
 
 [![TED Translators](https://img.shields.io/badge/TED%20Translators-E62B1E?style=for-the-badge&logo=ted&logoColor=white)](https://www.ted.com/profiles/32681592/translator)
