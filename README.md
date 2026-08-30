@@ -6,17 +6,16 @@
   </a>
 </h1>
 
-## Let's Connect
+<h5 align="center">
+ ## Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wint-theingi-aung-110845272/)
 [![Medium](https://img.shields.io/badge/Medium-%23121011.svg?style=for-the-badge&logo=medium&logoColor=white)](https://winttheingiaung.medium.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Wint-Theingi-Aung)
 [![Mastodon (Burma.Social)](https://img.shields.io/badge/Burma.Social-%23563D7C.svg?style=for-the-badge&logo=mastodon&logoColor=white)](https://burma.social/@winttheingiaung)
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/winttheingiaung)
 [![Bluesky](https://img.shields.io/badge/Bluesky-%230285FF.svg?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/winttheingiaung.bsky.social)
-
+</h5>
 <br>
-
 <p align="center">
   Hi, I'm Osman DURDAĞ, Research Assistant & Computer Engineer & Software Developer from Turkey
   <br>
