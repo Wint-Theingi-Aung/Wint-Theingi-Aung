@@ -11,7 +11,7 @@
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@winttheingiaung6759)
 [![Medium](https://img.shields.io/badge/Medium-%23121011.svg?style=for-the-badge&logo=medium&logoColor=white)](https://winttheingiaung.medium.com/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/winttheingiaung/)
-[![Mastodon (Burma.Social)](https://img.shields.io/badge/Burma.Social-%23563D7C.svg?style=for-the-badge&logo=mastodon&logoColor=white)](https://burma.social/@winttheingiaung)
+[![Mastodon (Burma.Social)](https://img.shields.io/badge/Mastodon-%23563D7C.svg?style=for-the-badge&logo=mastodon&logoColor=white)](https://burma.social/@winttheingiaung)
 [![Bluesky](https://img.shields.io/badge/Bluesky-%230285FF.svg?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/winttheingiaung.bsky.social)
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/winttheingiaung)
 </h5>
