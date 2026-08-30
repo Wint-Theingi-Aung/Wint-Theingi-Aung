@@ -6,13 +6,17 @@
   </a>
 </h1>
 
-<h5 align="center">
-  <code><a href="https://www.linkedin.com/in/osmandurdag/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://www.hackerrank.com/zumrudu_anka" title="HackerRank Profile"><img width="22" src="images/hackerrank.png"> HackerRank</a></code>
-  <code><a href="https://stackoverflow.com/users/12578260/osman-durdag" title="Stack Overflow Profile"><img width="22" src="images/stackoverflow.svg"> Stack Overflow</a></code>
-  <code><a href="https://www.instagram.com/osman__durdag/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
-</h5>
+## Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wint-theingi-aung-110845272/)
+[![Medium](https://img.shields.io/badge/Medium-%23121011.svg?style=for-the-badge&logo=medium&logoColor=white)](https://winttheingiaung.medium.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Wint-Theingi-Aung)
+[![Mastodon (Burma.Social)](https://img.shields.io/badge/Burma.Social-%23563D7C.svg?style=for-the-badge&logo=mastodon&logoColor=white)](https://burma.social/@winttheingiaung)
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/winttheingiaung)
+[![Bluesky](https://img.shields.io/badge/Bluesky-%230285FF.svg?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/winttheingiaung.bsky.social)
+
 <br>
+
 <p align="center">
   Hi, I'm Osman DURDAĞ, Research Assistant & Computer Engineer & Software Developer from Turkey
   <br>
