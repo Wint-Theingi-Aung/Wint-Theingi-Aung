@@ -1,8 +1,6 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=zumrudu-anka.zumrudu-anka">
-
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Wint+Theinigi+Aung....;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Wint....;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
 
@@ -17,24 +15,20 @@
 </h5>
 <br>
 <p align="center">
-  Hi, I'm Osman DURDAĞ, Research Assistant & Computer Engineer & Software Developer from Turkey
+  Hi, I'm Wint Theingi Aung, Software Developer from Myanmar
   <br>
   <br>
-  🔬 I'm currently studying for my doctorate at Atatürk University, Department of Computer Engineering
+    🎓 I graduated from University of Compute Studies, Yangon (UCSY) with a degree in Computer Science.
   <br>
-  🎓 I graduated from Atatürk University, Department of Computer Engineering (Master)
+  🎓 I completed a Postgraduate Diploma in English from the University of Yangon.
   <br>
-  🎓 I graduated from Black Sea Technical University, Department of Computer Engineering (Undergraduate)
+  💻 I love writing code, learning new technologies, and building useful software.
   <br>
-  🎓 I graduated from Erzurum İbrahim Hakkı Science High School
+  🌍 I enjoy contributing to and volunteering for open-source and community projects.
   <br>
-  💻 I love writing code and learn anythings about it
+  📚 I’m always learning and exploring new areas of software development, web technologies, Linux, and open source.
   <br>
-  📚 I’m currently learning how to build E-Commerce Website with Django
-  <br>
-  💬 Ask me anything about from <a href="https://github.com/zumrudu-anka/zumrudu-anka/issues" title="Issues">Here</a>
-  <br>
-  📫 How to reach me: <a href="mailto: osmandurdag@hotmail.com">osmandurdag@hotmail.com</a>
+  📫 How to reach me: <a href="mailto: winttheinigiaung@gmail.com">winttheingiaung@gmail.com</a>
 </p>
 
 <hr>
