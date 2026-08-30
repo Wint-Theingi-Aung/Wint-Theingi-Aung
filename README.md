@@ -12,9 +12,28 @@
 [![Mastodon (Burma.Social)](https://img.shields.io/badge/Burma.Social-%23563D7C.svg?style=for-the-badge&logo=mastodon&logoColor=white)](https://burma.social/@winttheingiaung)
 [![Bluesky](https://img.shields.io/badge/Bluesky-%230285FF.svg?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/winttheingiaung.bsky.social)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/winttheingiaung/)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@winttheingiaung6759)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:winttheingiaung@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/winttheingiaung)
 </h5>
+
+### 🌍 Translation & Localization
+
+I enjoy contributing to **open-source localization and translation projects**, helping make software and knowledge more accessible across languages and communities.
+
+- 🎙️ **TED Translator** — Translating and localizing TED content
+- 🐧 **Launchpad Translator** — Contributing to Ubuntu and other open-source localization projects
+- 🌐 **Crowdin Contributor** — Participating in software and community localization
+- 📝 **Weblate Contributor** — Contributing to open-source translation projects
+
+#### 🔗 Translation Profiles
+
+[![TED Translators](https://img.shields.io/badge/TED%20Translators-E62B1E?style=for-the-badge&logo=ted&logoColor=white)](https://www.ted.com/profiles/32681592/translator)
+[![Launchpad](https://img.shields.io/badge/Launchpad-FB7C00?style=for-the-badge&logo=ubuntu&logoColor=white)](https://launchpad.net/~wint-theingi-aung)
+[![Crowdin](https://img.shields.io/badge/Crowdin-2E3340?style=for-the-badge&logo=crowdin&logoColor=white)](https://crowdin.com/profile/winttheingiaung)
+[![Weblate](https://img.shields.io/badge/Weblate-2ECC71?style=for-the-badge&logo=weblate&logoColor=white)](https://hosted.weblate.org/user/winttheingiaung/)
 <br>
+
 <p align="center">
   Hi, I'm Wint Theingi Aung, Software Developer from Myanmar
   <br>
